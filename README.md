@@ -54,6 +54,4 @@ These problems serve as essential preparation for OOP concepts, covering fundame
 
 - [Programming Advices](https://programmingadvices.com/)
 
----
-
-**Next Step:** Object-Oriented Programming (OOP)
+--
