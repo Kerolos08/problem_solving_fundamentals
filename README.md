@@ -53,5 +53,3 @@ These problems serve as essential preparation for OOP concepts, covering fundame
 ## 📚 Resources
 
 - [Programming Advices](https://programmingadvices.com/)
-
---
